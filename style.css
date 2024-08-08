@@ -12,7 +12,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: url("images/bg.jpg");
+  background-image: url("bg.jpg");
   background: cover;
   background-repeat: no-repeat;
 }
@@ -20,7 +20,7 @@ body {
 .sect {
   height: 25rem;
   width: 30rem;
-  background-image: url("images/bg2.jpg");
+  background-image: url("bg2.jpg");
   background: cover;
   background-repeat: no-repeat;
   background-size: cover;
